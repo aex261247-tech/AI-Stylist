@@ -1,0 +1,10 @@
+streamlit
+scikit-learn
+webcolors
+rembg
+backgroundremover
+opencv-python
+pillow
+requests
+numpy
+colorthief
